@@ -1,0 +1,7 @@
+E:\doc\Visual Studio 2010\Mp3Tags\Mp3Tags\obj\x86\Release\Interop.WMPLib.dll
+E:\doc\Visual Studio 2010\Mp3Tags\Mp3Tags\obj\x86\Release\Mp3Tags.csproj.ResolveComReference.cache
+E:\doc\Visual Studio 2010\Mp3Tags\Mp3Tags\obj\x86\Release\ResolveAssemblyReference.cache
+E:\doc\Visual Studio 2010\Mp3Tags\Mp3Tags\bin\Release\Mp3Tags.exe
+E:\doc\Visual Studio 2010\Mp3Tags\Mp3Tags\bin\Release\Mp3Tags.pdb
+E:\doc\Visual Studio 2010\Mp3Tags\Mp3Tags\obj\x86\Release\Mp3Tags.exe
+E:\doc\Visual Studio 2010\Mp3Tags\Mp3Tags\obj\x86\Release\Mp3Tags.pdb
